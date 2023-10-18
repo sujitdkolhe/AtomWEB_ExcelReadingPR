@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+<!-- <test thread-count="5" name="Android">
+		<parameter name="deviceName" value="Android Device" />
+		<parameter name="platformName" value="Android" ></parameter>
+		<parameter name="platformVersion" value="8" />
+		<classes>
+			<class name="com.atom.healthcare.Test.AtomHealthcareTest" />
+		</classes>
+	</test> -->
+	
+	 <test thread-count="5" name="Samsung">`
+		<parameter name="deviceName" value="Samsung" />
+		<parameter name="platformName" value="Android" />
+		<parameter name="platformVersion" value="12" />
+		<classes>
+			<class name="com.atom.healthcare.Test.MyProgramsTest">
+			<methods>
+			<include name ="testWhenPatientClickOnColorsCancelButtonItShowNavigateToMoreListPage"/>
+			</methods>
+			</class>
+		</classes>
+	</test>
+	
+	<!-- REal device -->
+	<!-- <test thread-count="5" name="Android">
+		<parameter name="deviceName" value="moto g(60)" />
+		<parameter name="platformName" value="Android" />
+		<parameter name="platformVersion" value="12" />
+		<classes>
+			<class name="com.atom.healthcare.Test.MyProgramsTest">
+			<methods>
+			<include name ="testProgramNotDisplayIfProgramNotAssignToPatient"/>
+			</methods>
+			</class>
+		</classes>
+	</test> -->
+</suite>

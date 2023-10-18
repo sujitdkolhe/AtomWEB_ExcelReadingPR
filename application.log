@@ -1,0 +1,11 @@
+2023-08-11 17:49:16 5951 INFO  [main] - Device Name: Samsung
+2023-08-11 17:49:16 5954 INFO  [main] - Platform Name: Android
+2023-08-11 17:49:16 5954 INFO  [main] - Platform version: 12.0
+2023-08-11 17:50:02 51463 INFO  [main] - Method Name: testPatientsMyProgramsPageFields
+2023-08-11 17:50:02 51464 INFO  [main] - Device Name: Samsung
+2023-08-11 17:50:02 51464 INFO  [main] - Application Name: com.alphamd.health.apk
+2023-08-11 17:50:12 61481 INFO  [main] - Login to Patient
+2023-08-11 17:50:12 61780 INFO  [main] - Login to Patient
+2023-08-11 17:50:20 69567 INFO  [main] - Select language: English
+2023-08-11 17:50:46 95889 INFO  [main] - TEST RESULT:
+2023-08-11 17:50:46 95904 INFO  [main] - Fri Aug 11 17:50:46 IST 2023 environment=DEV suite=Suite class=MyProgramsTest test=testPatientsMyProgramsPageFields result= FAILED details=org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //android.widget.EditText[@text='Enter Email/Phone Number']})
