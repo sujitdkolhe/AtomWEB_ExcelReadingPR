@@ -1,0 +1,77 @@
+package com.atom.healthcare.Pojo;
+
+import java.io.InputStream;
+
+import org.openqa.selenium.WebDriver;
+import com.atom.healthcare.util.EncryptAndDecryptKey;
+import com.atom.healthcare.util.PropertyFileLoader;
+
+public class AtomHC {
+	public static WebDriver driver;
+	public static String browser;
+	public static PropertyFileLoader propData;
+	public static EncryptAndDecryptKey key;
+	public static String URL;
+	public static String mobileNum;
+	public static String apptName;
+	public static String consentPage;
+	public static String program;
+	public static String medicationName;
+	public static String textName;
+	public static String className;
+	public static String selectLanguage;
+	public static double version;
+	public static String brUserName;
+	public static String brPassword;
+	public static String browserStackPermission;
+	public static String appName;
+	public static String envName;
+	public static String ptProfileImage;
+	public static String ptFirstName;
+	public static String ptLastName;
+	public static String ptMidName;
+	public static String ptGenderName;
+	public static String ptDOB;
+	public static String ptBloodGrp;
+	public static String ptPreferredLang;
+	public static String socialSecurNum;
+	public static String internalCode;
+	public static String externalCode;
+	public static String ptMobileNum;
+	public static String PtEmail;
+	public static String userImage;
+	public static String userFirstName;
+	public static String userLastName;
+	public static String userMidName;
+	public static String userGender;
+	public static String userDOJ;
+	public static String userRole;
+	public static String userProfession;
+	public static String userMobNumber;
+	public static String userEmail;
+	public static String setNewPassword;
+	public static String setConfirmPassword;
+	public static InputStream fis;
+	public static String filePath;
+	public static String internalClassName;
+	public static String methodName;
+	public static String udid;
+	public static String edCategoryImage;
+	public static String CategoryName;
+	public static String DescriptionText;
+	public static String instText;
+	public static String instDescription;
+	public static String paymentMode;
+	public static String headerText;
+	public static String bodyText;
+	public static String welcomeImage;
+	public static String departmentName;
+	public static String reasonText;
+	public static String reasonDescript;
+	public static String fileCategoryImage;
+	public static String FileCategoryName;
+	public static String Description;
+	public static String ItemName;
+	public static String professionName;
+
+}

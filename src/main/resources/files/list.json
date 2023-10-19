@@ -1,0 +1,321 @@
+{
+	"defaultLanguageDropdownList": [
+		"Arabic Saudi Arabia",
+		"English",
+		"Hindi"
+	],
+	"selectLanguageDropdownList": [
+		"Select All",
+		"Arabic Saudi Arabia",
+		"English",
+		"Hindi"
+	],
+	"usersGenderDropdownList": [
+		"Select value",
+		"Neutral",
+		"Male",
+		"Female"
+	],
+	"branchDropdownList": [
+		"Select value",
+		"Mumbai",
+		"Kolkata"
+	],
+	"departmentDropdownList": [
+		"Select value",
+		"Gynacology"
+	],
+	"userRolesDropdownList": [
+		"Select value",
+		"Admin",
+		"Doctor",
+		"Nurse",
+		"FrontDesk"
+	],
+	"subflowOperationList": [
+		"Select value",
+		"Greater Than ( > )",
+		"Greater Than Equal To ( >= )",
+		"Less Than ( < )",
+		"Less Than Equal To ( <= )",
+		"Equal To ( = )",
+		"Between (< , >)",
+		"New",
+		"In Progress",
+		"Completed",
+		"Missed"
+	],
+	"subflowTaskList": [
+		"Select value",
+		"Education",
+		"Measurement",
+		"Questionnaire",
+		"Notification",
+		"Email",
+		"SMS",
+		"Instructions"
+	],
+	"subflowEducationItemList": [
+		"Select value",
+		"Exercise and Eating Healthy",
+		"HealthyDiet",
+		"THE-ABCS-OF-DIABETES(THE-BASICS)"
+	],
+	"subflowMeasurementItemList": [
+		"Select",
+		"value",
+		"Weight",
+		"Height",
+		"Heart",
+		"Rate",
+		"Steps",
+		"Calories",
+		"Water"
+	],
+	"subflowQuestionniareItemList": [
+		"Select value",
+		"Diet and Fitness Assessment",
+		"TestQuestionnaire"
+	],
+	"subflowNotificationItemList": [
+		"Select value",
+		"NewChat",
+		"NewAppointment",
+		"UpdateAppointment",
+		"NewTask",
+		"NewFile"
+	],
+	"subflowEmailItemList": [
+		"Select value",
+		"VerifyRegistration",
+		"VerifyLogin",
+		"VerifyResetPassword",
+		"ActivateAdminAccount",
+		"ActivateAccount"
+	],
+	"subflowSMSItemList": [
+		"Select value",
+		"VerifyRegistration",
+		"VerifyLogin",
+		"VerifyResetPassword"
+	],
+	"subflowInstructionsItemList": [
+		"Select value",
+		"TestingInstruct"
+	],
+	"myProgramNameItemList": [
+		"Anemia Program",
+		"Diet and Lifestyle",
+		"Fitness Program",
+		"Nutrition and Lifestyle"
+	],
+	"caregiverBranchList": [
+		"Select value",
+		"Mumbai",
+		"Delhi"
+	],
+	"caregiverFirstBranchDeptDropdownList": [
+		"Select value",
+		"Gynacology",
+		"Neurologist"
+	],
+	"caregiverBranchDelhiDeptDropdownList": [
+		"Select value",
+		"Gynacology",
+		"Neurologist",
+		"ddddd",
+		"Demo"
+	],
+	"caregiverDropdownList": [
+		"Select value",
+		"Deepak gupta",
+		"ram gupta",
+		"rahul gupta",
+		"Doctor Org",
+		"Front desk",
+		"lokesh khan"
+	],
+	"caregiverFirstBranchList": [
+		"Select value",
+		"Nurse One",
+		"doctor mumbai",
+		"Nurse two"
+	],
+	"caregiverDelhiBranchList": [
+		"Select value"
+	],
+	"branchContactList": [
+		"Select value",
+		"Address",
+		"Email",
+		"Phone No"
+	],
+	"bloodGroupList": [
+		"Select value",
+		"A+",
+		"A-",
+		"B+",
+		"B-",
+		"+AB",
+		"AB-",
+		"O+",
+		"O-"
+	],
+	"deptcaregiverlist": [
+		"Select value",
+		"Doctor Mumbai Dept"
+	],
+
+	"branchContactTypeList": [
+		"Select value",
+		"Home",
+		"Primary",
+		"Work"
+	],
+	"assigntasktypelist": [
+		"Select value",
+		"Education",
+		"Measurement",
+		"Questionnaire",
+		"Instructions"
+	],
+	"educationtaskitemlist": [
+		"Select value",
+		"Exercise and Eating Healthy",
+		"Diet Plan"
+	],
+	"questionnairetaskitemlist": [
+		"Select value",
+		"Diet and Fitness Assessment",
+		"Test Questionnaire"
+	],
+	"instructionstaskitemlist": [
+		"Select value",
+		"Testing Instruct",
+		"working in place"
+	],
+	"selectCategorydropdownlist": [
+		"Blood Test",
+		"X-rays",
+		"Test FC",
+		"Diabetes reports",
+		"X ray reports",
+		"File category A",
+		"File category",
+		"DemoCategory",
+		"Sonography",
+		"It's for testing",
+		"Metting"
+	],
+	"defaultLangDropdownList": [
+		"Arabic Saudi Arabia",
+		"English India",
+		"Hindi India"
+	],
+	"selectLangDropdownList": [
+		"Select All",
+		"Arabic Saudi Arabia",
+		"English India",
+		"Hindi India"
+	],
+	"measurementItemList": [
+		"Select value",
+		"Weight",
+		"Height",
+		"Water"
+	],
+	"orgTypetextboxList": [
+		"Select value",
+		"Home",
+		"Primary",
+		"Work"
+	],
+
+	"orgContactTextboxList": [
+		"Select value",
+		"Address",
+		"Email",
+		"Phone No"
+	],
+	"subflowSelectRoleList": [
+		"Select value",
+		"Admin",
+		"Doctor",
+		"Nurse"
+	],
+	"appointmentTypeList": [
+		"Select value",
+		"Video Calling",
+		"Patient Visit"
+	],
+	"unitDropdownList": [
+		"Tablet",
+		"ml",
+		"Puff",
+		"ml"
+	],
+	"howOftenDropdownList": [
+		"Daily",
+		"Weekly",
+		"Monthly",
+		"Alternate for"
+	],
+	"taskTypeDropdownList": [
+		"Select value",
+		"Education",
+		"Measurement",
+		"Questionnaire",
+		"Instructions"
+	],
+	"taskItemDropdownList": [
+		"Select value",
+		"working in place"
+	],
+	"quesTypeDropdownList": [
+		"Select value",
+		"Standard",
+		"Grouped"
+	],
+	"quesDefaultRespondantDropdownList": [
+		"Select value",
+		"Provider",
+		"Patient",
+		"Both"
+	],
+	"nameDropdownList": [
+		"Select value",
+		"Testing Subflow",
+		"Subflowwww",
+		"Temp SubFlow"
+	],
+	"subflowTaskTypeDropdownList": [
+		"Select value",
+		"Education",
+		"Measurement",
+		"Questionnaire",
+		"Instructions"
+	],
+	"alternateMeasurementItemDropdownList": [
+		"Select value",
+		"Calories"
+	],
+	"alternateInstructionItemDropdownList": [
+		"Select value",
+		"Test your blood glucose"
+	],
+	"alternateEducationItemDropdownList": [
+		"Select value",
+		"Eggs"
+	],
+	"alternateQuestionnaireItemDropdownList": [
+		"Select value",
+		"EDPS( Edinburgh Perinatal/Postnatal Depression Scale)"
+	],
+	"education category": [
+		"Select value",
+		"Diabetes Education",
+		"The Nutrition",
+		"sstest eng",
+		"sstest nutrition category"
+	]
+}

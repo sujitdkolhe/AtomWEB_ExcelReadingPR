@@ -1,0 +1,5 @@
+Assigned Caregiver To a patient who's caregiver was 0 
+Assigned a program   (Sleep Deprivation Program - Published)
+Automatically the same caregiver was added twice 
+Automatically 1 extra caregiver of the same org was added 
+After changing the "Entry point" , more caregiver were added to the list of different org.
